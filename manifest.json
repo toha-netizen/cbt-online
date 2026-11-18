@@ -1,0 +1,15 @@
+{
+  "short_name": "Kuis",
+  "name": "Kuis Real-Time",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#1e1e2f",
+  "background_color": "#1e1e2f"
+}
